@@ -1,0 +1,13 @@
+body {
+  color: blue;
+  background-color: lightpink; }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  nav ul li {
+    display: inline-block; }
+    nav ul li a {
+      color: chartreuse;
+      font-size: 22px; }
